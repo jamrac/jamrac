@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamrac
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning programming and cybersecurity
+- 👀 I’m interested in programming and Data Analysis
+- 🌱 I’m currently learning programming and Data Analysis
 
 
 <!---
